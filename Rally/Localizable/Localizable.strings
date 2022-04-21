@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  Rally
+
+  Created by Povilas Staskus on 11/6/19.
+  Copyright © 2019 ItWorksMobile. All rights reserved.
+*/
+
+"app_name" = "Idėjų grupė";
+"general_close" = "Uždaryti";
+"general_backend_error" = "Įvyko serverio klaida, prašome bandyti dar kartą";
+"general_number_with_dot" = "%@.";
+"top_default_subtitle" = "-";
+"questions_description" = "Ekipažo %@ St.Nr.%@";
+"questions_stNr" = "St.Nr.";
+"questions_team" = "Ekipažas";
+"questions_future_event_title" = "Renginys dar neprasidėjo!";
+"questions_future_event_time" = "Renginio pradžia\n%@";
+"questions_no_location_access_title" = "Nesuteikta prieiga prie vietos";
+"questions_no_location_access_button" = "Suteikti prieigą";
+"questions_no_events_title" = "Nerasta jokių renginių!";
+"questions_no_questions_title" = "Nerasta jokių klausimų!";
+"questions_error_refresh_questions_title" = "Nepavyko atnaujinti klausimų!";
+"questions_no_internet_title" = "Nėra interneto ryšio";
+"questions_no_internet_description" = "Informacija bus atnaujinta atsiradus ryšiui";
+"questions_inactive_alert_title" = "Užduotis neaktyvi!";
+"questions_inactive_alert_description" = "Užduoties aprašymą galėsite pamatyti tik atvykus į reikiamą vietą.";
+"questions_inactive_time_alert_before_description" = "Užduoties aprašymas bus prieinamas nuo %@";
+"questions_inactive_time_alert_after_description" = "Užduoties aprašymas buvo prieinamas iki %@";
+"questions_no_internet_done_alert_title" = "Šiuo metu nėra ryšio";
+"questions_no_internet_done_alert_description" = "Užduotis bus išsaugota atsiradus interneto ryšiui.";
+"questions_done_details" = "Atsakymas priimtas.";
+"questions_active_details" = "Esate vietoje, galite pamatyti klausimą.";
+"questions_inactive_details" = "Klausimą galėsite pamatyti atvykę į vietą.";
+"questions_saving_details" = "Atsakymas bus išsiųstas atsiradus ryšiui.";
+"questions_last_answer_loading_details" = "Paskutinis jūsų atsakymas dar nėra išsaugotas ir bus išsiųstas tik atsiradus interneto ryšiui. Jei norite, galite pakeisti pateiktą atsakymą.";
+"answer_location_alert_title" = "Įvyko klaida!";
+"answer_location_alert_description" = "Užduoties atsakymą galite pateikti tik esant reikiamoje vietoje.";
+"answer_hint" = "Įveskite atsakymą";
+"answer_details_save_button" = "Patvirtinti";
+"answer_details_edit_button" = "Pakeisti atsakymą";
+"answer_details_input_empty_error" = "Atsakymas negali būti tuščias";
+"answer_details_input_too_long_error" = "Atsakymas yra per ilgas";
+"answer_details_choice_empty_error" = "Atsakymą būtina pasirinkti";
+"answer_details_geo_zone_alert_description" = "Nesate tinkamoje geozonoje, atsakymo negalime išsaugoti";
+"answer_details_alert_answer_once" = "Pateikti atsakymą antrą kartą nebegalima";
+"login_logout" = "Atsijungti";
+"login_title" = "Prisijungimas į varžybas";
+"login_email_hint" = "El. paštas";
+"login_password_hint" = "Slaptažodis";
+"login_invalid_email" = "El. paštas nėteisingas";
+"login_invalid_password" = "Slaptažodis negali būti tuščias";
+"login_button" = "Prisijungti";
+"login_forgot_password" = "Pamiršote slaptažodį?";
+"login_registration" = "Neturite paskyros? Registruokitės čia!";
+"login_registration_color_part" = "Registruokitės čia!";
+"login_retry" = "Bandykite prisijungti dar kartą";
+"login_wrong_credentials" = "Neteisingas prisijungimo vardas ir/arba slaptažodis. Patikrinkite įvestą informaciją ir bandykite dar kartą";
+"web_registration_title" = "Registracija";
+"web_forgot_password_title" = "Atnaujinti slaptažodį";
+"back" = "Grįžti";
+"retry" = "Bandyti dar kartą";
+"session_over_title" = "Sesija baigėsi";
+"session_over_details" = "Prašome prisijungti iš naujo";
+"answer_timer_title" = "Netrukus bus parodytas klausimas.";
+"answer_timer_information" = "Pasiruoškite - bus matuojamas atsakymo į klausimą pateikimo laikas.";
+"answer_timer_error_title" = "Nėra interneto ryšio";
+"answer_timer_error_description" = "Klausimo peržiūrai reikalingas interneto ryšys. Įjunkite savo įrenginyje interneto ryšį ir bandykite inicijuoti klausimo peržiūrą iš naujo.";
+
+"events_title" = "Renginiai";

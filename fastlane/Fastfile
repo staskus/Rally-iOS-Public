@@ -1,0 +1,18 @@
+  default_platform(:ios)
+
+  platform :ios do
+      desc "Idėjų grupė"
+      lane :distribute do
+          build_ios_app(
+          	scheme: "Rally"
+          )
+
+          firebase_app_distribution(
+              app: "",
+              release_notes: "Pataisymai",
+              firebase_cli_path: "/absolute/path/to/firebase/cli/binary"
+          )
+
+      end
+  end
+  
